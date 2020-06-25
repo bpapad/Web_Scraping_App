@@ -1,4 +1,4 @@
-# Forum-Fetcher-Sorter
+# Web_Scraping_App
 A Java GUI form which parses a specific HTML page and fetches the required by the user data
 
 Java (13)
